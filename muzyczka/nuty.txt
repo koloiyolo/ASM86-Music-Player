@@ -1,0 +1,3 @@
+3 C1c D1c E1c F1c G1c A1c H1c C2c D2c E2c F2c G2c A2c H2c C3c D3c E3c F3c G3c A3c H3c C4c D4c E4c F4c G4c A4c H4c C5c D5c E5c F5c G5c A5c H5c C6c D6c E6c F6c G6c A6c H6c C7c D7c E7c F7c G7c A7c H7c P1f H7c A7c G7c F7c E7c D7c C7c H6c A6c G6c F6c E6c D6c C6c H5c A5c G5c F5c E5c D5c C5c H4c A4c G4c F4c E4c D4c C4c H3c A3c G3c F3c E3c D3c C3c H2c A2c G2c F2c E2c D2c C2c H1c A1c G1c F1c E1c D1c C1c Q0t
+
+
